@@ -4,6 +4,7 @@
     border-bottom: 0.3px solid #e2e4e8;
     height: 40px;
     margin-bottom: 135px;
+
     // position: fixed;
 
     // -----------TOP HEADER START---------
@@ -571,21 +572,33 @@
 @media (max-width: 768px) {
     #header {
         border-bottom: none;
+        margin-bottom:30px;
         .top-header {
             display: none;
+            
         }
         .center-header {
+            // display:flex;
             .reqem {
                 display: none;
             }
             .box-right {
+                        //   display:flex ;
+
                 a {
                     display: none;
+                   
+                }
+                .goos{
+                    margin-left: -30px;
+                    display: block;
+                    font-size: 25px;
                 }
             }
             .goo {
                 display: none;
             }
+         
             .box-left {
                 display: flex;
                 align-items: center;
@@ -598,7 +611,7 @@
                 img {
                     // position: absolute;
                     width: 50%;
-                    margin-left: 22%;
+                    margin-left: 20%;
                 }
             }
         }
