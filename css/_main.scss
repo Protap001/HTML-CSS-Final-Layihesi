@@ -355,7 +355,7 @@
     }
 }
 
-@media (max-width: 768px) {
+@media  (min-width:426px) and (max-width: 992px) {
     #main {
         .main-bottom {
             position: relative;

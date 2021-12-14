@@ -178,6 +178,7 @@
   width: 80%;
   margin: auto;
   padding: 40px 0px;
+  overflow-x: scroll;
 }
 
 .section-2-brands .brands {
@@ -2552,7 +2553,7 @@
   padding: 16px;
 }
 
-.befaft::before, .befaft::after {
+.befaft::before, .befaft::after, #compark1 .main-tesk .section-41 .befaft11::after {
   position: absolute;
   content: "";
   width: 50px;
@@ -2816,7 +2817,7 @@
   padding: 60px 0px;
 }
 
-.section-4-red:hover .befaft::before, .section-4-red:hover .befaft::after {
+.section-4-red:hover .befaft::before, .section-4-red:hover .befaft::after, .section-4-red:hover #compark1 .main-tesk .section-41 .befaft11::after, #compark1 .main-tesk .section-41 .section-4-red:hover .befaft11::after {
   width: 100px;
 }
 
@@ -2854,7 +2855,7 @@
   top: -10%;
 }
 
-.section-4-red .four-cars .car:hover .text-2 .lines::before, .section-4-red .four-cars .section-4-recent .cars .car-2:hover .text-2 .lines::before, .section-4-recent .cars .section-4-red .four-cars .car-2:hover .text-2 .lines::before, .section-4-red .four-cars .section-4-recent .cars .car-1:hover .text-2 .lines::before, .section-4-recent .cars .section-4-red .four-cars .car-1:hover .text-2 .lines::before, .section-4-red .four-cars .car:hover .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-2:hover .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-2:hover .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-1:hover .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-1:hover .text-2 .lines::after {
+.section-4-red .four-cars .car:hover .text-2 .lines::before, .section-4-red .four-cars .section-4-recent .cars .car-2:hover .text-2 .lines::before, .section-4-recent .cars .section-4-red .four-cars .car-2:hover .text-2 .lines::before, .section-4-red .four-cars .section-4-recent .cars .car-1:hover .text-2 .lines::before, .section-4-recent .cars .section-4-red .four-cars .car-1:hover .text-2 .lines::before, .section-4-red .four-cars .car:hover .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-2:hover .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-2:hover .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-1:hover .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-1:hover .text-2 .lines::after, .section-4-red .four-cars .car:hover .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-red .four-cars .car:hover .text-2 .lines11::after, .section-4-red .four-cars .section-4-recent .cars .car-2:hover .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-red .four-cars .section-4-recent .cars .car-2:hover .text-2 .lines11::after, .section-4-recent .cars .section-4-red .four-cars .car-2:hover .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-recent .cars .section-4-red .four-cars .car-2:hover .text-2 .lines11::after, .section-4-red .four-cars .section-4-recent .cars .car-1:hover .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-red .four-cars .section-4-recent .cars .car-1:hover .text-2 .lines11::after, .section-4-recent .cars .section-4-red .four-cars .car-1:hover .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-recent .cars .section-4-red .four-cars .car-1:hover .text-2 .lines11::after {
   width: 50px;
   background-color: rgba(219, 45, 46, 0.8);
 }
@@ -2952,7 +2953,7 @@
   padding: 14px 0px;
 }
 
-.section-4-red .four-cars .car .text-2 .lines::before, .section-4-red .four-cars .section-4-recent .cars .car-2 .text-2 .lines::before, .section-4-recent .cars .section-4-red .four-cars .car-2 .text-2 .lines::before, .section-4-red .four-cars .section-4-recent .cars .car-1 .text-2 .lines::before, .section-4-recent .cars .section-4-red .four-cars .car-1 .text-2 .lines::before, .section-4-red .four-cars .car .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-2 .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-2 .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-1 .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-1 .text-2 .lines::after {
+.section-4-red .four-cars .car .text-2 .lines::before, .section-4-red .four-cars .section-4-recent .cars .car-2 .text-2 .lines::before, .section-4-recent .cars .section-4-red .four-cars .car-2 .text-2 .lines::before, .section-4-red .four-cars .section-4-recent .cars .car-1 .text-2 .lines::before, .section-4-recent .cars .section-4-red .four-cars .car-1 .text-2 .lines::before, .section-4-red .four-cars .car .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-2 .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-2 .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-1 .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-1 .text-2 .lines::after, .section-4-red .four-cars .car .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-red .four-cars .car .text-2 .lines11::after, .section-4-red .four-cars .section-4-recent .cars .car-2 .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-red .four-cars .section-4-recent .cars .car-2 .text-2 .lines11::after, .section-4-recent .cars .section-4-red .four-cars .car-2 .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-recent .cars .section-4-red .four-cars .car-2 .text-2 .lines11::after, .section-4-red .four-cars .section-4-recent .cars .car-1 .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-red .four-cars .section-4-recent .cars .car-1 .text-2 .lines11::after, .section-4-recent .cars .section-4-red .four-cars .car-1 .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after, #compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .section-4-recent .cars .section-4-red .four-cars .car-1 .text-2 .lines11::after {
   position: absolute;
   content: "";
   width: 28px;
@@ -2994,7 +2995,7 @@
   overflow: hidden;
 }
 
-.section-5-chat:hover .befaft::before, .section-5-chat:hover .befaft::after {
+.section-5-chat:hover .befaft::before, .section-5-chat:hover .befaft::after, .section-5-chat:hover #compark1 .main-tesk .section-41 .befaft11::after, #compark1 .main-tesk .section-41 .section-5-chat:hover .befaft11::after {
   width: 100px;
 }
 
@@ -3090,7 +3091,7 @@
   padding: 70px 0px;
 }
 
-.section-6-icons:hover .befaft::before, .section-6-icons:hover .befaft::after {
+.section-6-icons:hover .befaft::before, .section-6-icons:hover .befaft::after, .section-6-icons:hover #compark1 .main-tesk .section-41 .befaft11::after, #compark1 .main-tesk .section-41 .section-6-icons:hover .befaft11::after {
   width: 100px;
 }
 
@@ -3870,7 +3871,7 @@
   color: #383e47;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1365px) {
   #header {
     border-bottom: none;
     margin-bottom: 30px;
@@ -3904,25 +3905,13 @@
   }
   #header .center-header .box-left .ham {
     display: block;
+    margin-right: 30%;
     font-size: 35px;
   }
   #header .center-header .box-left img {
     width: 50%;
-    margin-left: 20%;
   }
   #header .bottom-header {
-    display: none;
-  }
-}
-
-@media (min-width: 992px) and (max-width: 1324px) {
-  .top-header .box-left {
-    width: 60%;
-  }
-  .top-header .box-right {
-    width: 40;
-  }
-  .bottom-header {
     display: none;
   }
 }
@@ -4153,7 +4142,7 @@
   }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1024px) {
   .section-1-custom {
     padding: 110px;
     position: relative;
@@ -4944,7 +4933,7 @@
   border: 2px solid red;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 426px) and (max-width: 992px) {
   #main .main-bottom {
     position: relative;
   }
@@ -5264,5 +5253,613 @@
   font-size: 12px;
   display: block;
   margin-bottom: -35px;
+}
+
+@media (max-width: 768px) {
+  .main-boxes .box-texx {
+    margin-left: 0px;
+  }
+}
+
+#compark1 {
+  margin-top: 200px;
+}
+
+#compark1 .maiin {
+  margin-top: 2em;
+}
+
+#compark1 .maiin .top-main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#compark1 .maiin .box-left {
+  width: 70%;
+}
+
+#compark1 .maiin .box-left p {
+  color: #999999;
+}
+
+#compark1 .maiin .box-right .black {
+  color: #999999;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+#compark1 .maiin .box-right .red {
+  color: red;
+  font-size: 23px;
+  font-weight: 500;
+}
+
+#compark1 a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding: auto;
+  margin-left: 15px;
+}
+
+#compark1 .buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#compark1 .alar {
+  border: 2px solid #e8e8e8;
+  position: relative;
+  padding: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+  color: #999999;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+#compark1 .alar:hover {
+  background-color: red;
+  color: white;
+}
+
+#compark1 .alar:hover a {
+  color: white;
+}
+
+#compark1 .alar a {
+  color: #999999;
+  font-weight: 400;
+}
+
+#compark1 .social {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 10px;
+  border: 2px solid #e8e8e8;
+  margin: 20px 0px;
+}
+
+#compark1 .social #cd_video {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#compark1 .social #cd_video i {
+  background-color: #DB2D2E;
+  padding: 10px;
+  border-radius: 50%;
+  color: white;
+}
+
+#compark1 .social #cd_video i:hover {
+  background-color: black;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+#compark1 .social #cd_video a {
+  color: #483C36;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+#compark1 .details {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-right: 20px;
+}
+
+#compark1 .details p {
+  margin: 0%;
+}
+
+#compark1 .details i {
+  margin-left: 5px;
+  color: #fff;
+  background-color: #DB2D2E;
+  padding: 8px;
+  border-radius: 50%;
+}
+
+#compark1 .details i:hover {
+  background-color: #363636;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+#compark1 .details .qas {
+  padding: 8px 10px;
+}
+
+#compark1 .details .gos {
+  padding: 8px 7px;
+}
+
+#compark1 .details .pis {
+  padding: 8px 10px;
+}
+
+#compark1 .details .vas {
+  padding: 8px 10px;
+}
+
+#compark1 .main-photos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#compark1 .main-photos img {
+  width: 33.3%;
+}
+
+#compark1 .main-tesk ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 50px;
+}
+
+#compark1 .main-tesk ul li a {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+#compark1 .main-tesk ul li a:hover {
+  color: red;
+}
+
+#compark1 .main-tesk ul .features {
+  margin-left: 15px;
+}
+
+#compark1 .main-tesk ul .feat {
+  margin-left: 55px;
+}
+
+#compark1 .main-tesk .box-yaz {
+  margin-top: 45px;
+}
+
+#compark1 .main-tesk .box-yaz p {
+  font-family: Open, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  text-transform: none;
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: 0px;
+  color: #999999;
+}
+
+#compark1 .main-tesk .section-41 {
+  width: 100%;
+  margin: auto;
+  padding: 60px 0px;
+}
+
+#compark1 .main-tesk .section-41:hover .befaft::before, #compark1 .main-tesk .section-41:hover .befaft::after, #compark1 .main-tesk .section-41:hover .befaft11::after {
+  width: 100px;
+}
+
+#compark1 .main-tesk .section-41:hover .befaft::after {
+  width: 50px;
+}
+
+#compark1 .main-tesk .section-41 .text11 span {
+  color: #989898;
+  font-size: 14px;
+}
+
+#compark1 .main-tesk .section-41 .text11 h4 {
+  color: #373737;
+  font-weight: bold;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 {
+  padding: 50px 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 {
+  width: 100%;
+  margin: 0px 10px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111:hover .pictures11 .calendar11 {
+  bottom: 0%;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111:hover .pictures11 .red11 {
+  top: -10%;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .lines::before, #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .section-4-red .four-cars .car .text-2 .lines::after, .section-4-red .four-cars .car .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .lines::after, #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .section-4-red .four-cars .section-4-recent .cars .car-2 .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-2 .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .lines::after, #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .section-4-recent .cars .section-4-red .four-cars .car-2 .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-2 .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .lines::after, #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .section-4-red .four-cars .section-4-recent .cars .car-1 .text-2 .lines::after, .section-4-red .four-cars .section-4-recent .cars .car-1 .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .lines::after, #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .section-4-recent .cars .section-4-red .four-cars .car-1 .text-2 .lines::after, .section-4-recent .cars .section-4-red .four-cars .car-1 .text-2 #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .lines::after, #compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .lines11::after {
+  width: 50px;
+  background-color: rgba(219, 45, 46, 0.8);
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111:hover .text-211 .lines11::after {
+  width: 28px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 img {
+  width: 100%;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .pictures11 {
+  position: relative;
+  overflow: hidden;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .pictures11 .calendar11 {
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  background-color: white;
+  left: 0%;
+  bottom: -20%;
+  padding: 7px;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+  z-index: 1;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .pictures11 .calendar11 span {
+  color: #9a9999;
+  font-size: 14px;
+  padding: 0px 5px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .pictures11 .calendar11 i {
+  -webkit-transition: 0.9s ease-in-out;
+  transition: 0.9s ease-in-out;
+  color: #9a9999;
+  font-size: 14px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .pictures11 .red11 {
+  -webkit-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  top: -100%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(219, 45, 45, 0.68);
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .pictures11 .red11 i {
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+  color: white;
+  font-size: 15px;
+  padding: 8px;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin: 0px 3px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .pictures11 .red11 i:hover {
+  color: rgba(219, 45, 46, 0.8);
+  background-color: white;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .pictures11 .sold {
+  position: absolute;
+  width: 25%;
+  left: 70%;
+  top: 70%;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 {
+  text-align: center;
+  background-color: #f7f7f7;
+  padding: 17px 0px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11 {
+  position: relative;
+  padding: 14px 0px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::before {
+  position: absolute;
+  content: "";
+  width: 28px;
+  height: 1.2px;
+  background-color: black;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+  -webkit-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+  top: 10px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 .lines11::after {
+  top: 15px;
+  width: 50px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 a {
+  text-decoration: none;
+  color: #d70202;
+  display: inline-block;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+#compark1 .main-tesk .section-41 .four-cars11 .car111 .text-211 span {
+  font-weight: 650;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+}
+
+#compark1 .main-tesk .section-41 .befaft11 {
+  position: relative;
+  padding: 16px;
+}
+
+#compark1 .main-tesk .section-41 .befaft11::before {
+  position: absolute;
+  content: "";
+  width: 50px;
+  height: 1.2px;
+  background-color: #e40202;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+  -webkit-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
+
+#compark1 .main-tesk .section-41 .befaft11::after {
+  top: 23px;
+  width: 100px;
+}
+
+#compark1 .vax {
+  margin-top: 3em;
+  margin-left: 2em;
+}
+
+#compark1 .vax h6 {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 600;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+#compark1 .vax hr {
+  width: 5%;
+  margin-top: -7%;
+  color: red;
+}
+
+#compark1 .vax2 {
+  width: 80%;
+  margin-left: 30px;
+}
+
+#compark1 .vax2 .bos1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#compark1 .vax2 .bos1 p {
+  display: inline;
+  text-align: right;
+  font-weight: bold;
+  color: #363636;
+}
+
+#compark1 .vax2 hr {
+  padding: 0;
+  margin: 0;
+}
+
+#compark1 .oms {
+  margin-top: 22px;
+}
+
+#compark1 .oms h4 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#compark1 .oms hr {
+  width: 5%;
+  color: red;
+}
+
+#compark1 .qutus {
+  width: 398px;
+  height: 250px;
+  background-color: red;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+#compark1 .qutus h6 {
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  -webkit-transform: translate(-20%);
+          transform: translate(-20%);
+  color: #fff;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#compark1 .qutus .gas {
+  position: absolute;
+  top: 30%;
+  left: -7%;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#compark1 .qutus .gas .gas1 {
+  margin-left: 65px;
+}
+
+#compark1 .qutus .gas span {
+  color: #fff;
+  font-size: 30px;
+}
+
+#compark1 .qutus .gas p {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#compark1 .qutus .gas i {
+  color: #fff;
+  font-size: 35px;
+  margin-top: 15px;
+}
+
+#compark1 .qutus .yu {
+  position: absolute;
+  top: 70%;
+  font-size: 15px;
+  text-align: center;
+  color: #fff;
+  margin-top: 15px;
+}
+
+#compark1 .botom-qutu h6 {
+  color: #363636;
+  font-weight: bold;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 18px;
+}
+
+#compark1 .botom-qutu hr {
+  width: 8%;
+  color: red;
+}
+
+#compark1 .botom-qutu p {
+  color: #999999;
+  font-size: 15px;
+}
+
+#compark1 .botom-qutu input {
+  width: 100%;
+  padding: 12px 0px;
+  background-color: #f6f6f6;
+  border: none;
+  margin-bottom: 15px;
+}
+
+#compark1 .botom-qutu .mns {
+  margin-bottom: 35px;
+}
+
+#compark1 .boxq {
+  position: relative;
+  margin-bottom: 50px;
+  margin-left: -4%;
+}
+
+#compark1 .boxq a {
+  position: relative;
+  display: inline-block;
+  margin: 15px;
+  padding: 8px 20px;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: #fff;
+  background: transparent;
+  cursor: pointer;
+  -webkit-transition: ease-out 0.5s;
+  transition: ease-out 0.5s;
+  border: 2px solid #323232;
+  background-color: red;
+}
+
+#compark1 .boxq a:hover {
+  color: white;
+  -webkit-box-shadow: inset 0 -100px 0 0 #323232;
+          box-shadow: inset 0 -100px 0 0 #323232;
+}
+
+#compark1 .boxq a:active {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
 }
 /*# sourceMappingURL=style.css.map */
