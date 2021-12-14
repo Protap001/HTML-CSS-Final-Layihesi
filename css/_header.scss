@@ -569,7 +569,7 @@
 
 // -------------BOTTOM HEADER END-----------
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     #header {
         border-bottom: none;
         margin-bottom:30px;
@@ -620,3 +620,20 @@
         }
     }
 }
+
+
+@media (min-width: 992px) and (max-width:1324px) {
+.top-header{
+    .box-left{
+        width: 60%;
+    }
+    .box-right{
+        width: 40;
+    }
+}
+    .bottom-header{
+    display: none;
+}
+}
+
+

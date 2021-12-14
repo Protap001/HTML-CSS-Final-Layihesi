@@ -1,6 +1,4 @@
-
-   
-@media (max-width:768px) {
+@media (max-width:992px) {
 
     .section-1-custom{
            padding: 110px;
@@ -71,7 +69,6 @@
            }
        }    
    }
-   
     .section-2-brands{
            width: 93%;
            margin: auto;
@@ -98,7 +95,6 @@
           }
         }
       }
-   
    .section-3-popular{
           width: 100%;
           .boxes-1{   
@@ -442,7 +438,15 @@
    }
    
    }
-   
    }
    
+// @media(min-width:768px) and (max-width:1024px) {
+//     .section-1-custom{
 
+//     padding: 50px;
+//     .vehicle{
+
+
+//     }
+// }
+// }
